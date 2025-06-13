@@ -1,7 +1,7 @@
 # QR-SCANNER
 
 
-# QR Code Generator (Node.js)
+# QR Code Generator (Node.js) backend
 
 This is a basic Node.js project that creates a QR code from a given URL and saves it as an image file.
 
